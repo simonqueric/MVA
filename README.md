@@ -8,5 +8,5 @@
 |Computational Statistics|S. Allassonnière |
 |Altegrad|M. Vazirgiannis|
 |Topological Data Analysis |J. Tierny, F. Chazal |
-|Convex Optimization | A. d'Aspremont |
+|Convex Optimization | A. D'Aspremont |
 |Distributed Optimization | E. Chouzenoux |
