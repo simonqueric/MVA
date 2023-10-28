@@ -10,3 +10,4 @@ Here are my labs and projects done during my master MVA at ENS Paris-Saclay.
 |Topological Data Analysis |J. Tierny, F. Chazal |
 |Convex Optimization | A. D'Aspremont |
 |Distributed Optimization | E. Chouzenoux |
+|Computational Optimal Transport | G. Peyre |
