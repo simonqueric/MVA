@@ -1,6 +1,6 @@
 # MVA
 
-Here are my labs and projects done during my master MVA at ENS Paris-Saclay.
+Here are my labs and projects done during my master MVA (https://www.master-mva.com/) at ENS Paris-Saclay.
 
 | Course | Teachers |
 |:------:|:-------:|
