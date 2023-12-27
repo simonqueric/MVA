@@ -10,4 +10,4 @@ This repo contains my labs and projects done during my master MVA (https://www.m
 |<a href="https://julien-tierny.github.io/topologicalDataAnalysisClass.html"> Topological Data Analysis </a> |J. Tierny, F. Chazal | Introduction to algebraic topology, homology & Algorithms |
 |<a href="https://www.di.ens.fr/~aspremon/OptConvexeM2.html">Convex Optimization </a> | A. D'Aspremont | Modelling, Duality & Algorithms |
 |<a href="https://pages.saclay.inria.fr/emilie.chouzenoux/ECP/index.htm"> Distributed Optimization </a> | E. Chouzenoux | Proximal tools, splitting techniques, Majorization-Minimization strategies |
-|<a href="http://www.gpeyre.com/teaching/"> Computational Optimal Transport </a> | G. Peyre | Monge and Kantorovitch problems, regularization |
+|<a href="http://www.gpeyre.com/teaching/"> Computational Optimal Transport </a> | G. Peyre | Monge and Kantorovitch problems, regularization, Sinkhorn algorithm |
