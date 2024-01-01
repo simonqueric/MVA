@@ -4,7 +4,7 @@ This repo contains my labs and projects done during my master MVA (https://www.m
 
 | Course | Teachers | Keywords |
 |:------:|:-------:|:-------:|
-|<a href="http://www.laurentoudre.fr/ast.html"> Time Series </a>| L. Oudre | Modelling, Pattern recognition, Dictionary learning, Sparse reconstruction, Change point and anomaly detection, Multivariate time series |
+|<a href="http://www.laurentoudre.fr/ast.html"> Time Series </a>| L. Oudre, C. Truong | Modelling, Pattern recognition, Dictionary learning, Sparse reconstruction, Change point and anomaly detection, Multivariate time series |
 |<a href="https://www.master-mva.com/cours/computational-statistics/"> Computational Statistics </a> | S. Allassonnière | MCMC methods |
 |<a href="https://www.master-mva.com/cours/cat-advanced-learning-for-text-and-graph-data-altegrad/"> Altegrad </a> | M. Vazirgiannis| Deep Learning for NLP and graph data, LLM, GNN |
 |<a href="https://julien-tierny.github.io/topologicalDataAnalysisClass.html"> Topological Data Analysis </a> |J. Tierny, F. Chazal | Introduction to algebraic topology, homology & Algorithms |
