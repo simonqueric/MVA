@@ -1,5 +1,7 @@
 import numpy as np
+import matplotlib.pyplot as plt
 from scipy.linalg import sqrtm
+
 
 ## Optimal Transport functions ##
 
@@ -164,7 +166,7 @@ def approx_wasserstein(x, y, eps) :
     n = len(x)
     a = np.ones(n)/n
     b = np.ones(n)/n    
-    C = distmat(x, y)
+    C = distmat(x.T, y.T)
     u, v, _, _ = log_sinkhorn(C,eps,np.zeros(n), a,b, niter = 500)
     return np.mean(u)+np.mean(v)
 
@@ -175,12 +177,12 @@ def approx_normalized_wasserstein(x, y, n, eps) :
     n = len(x)
     a = np.ones(n)/n
     b = np.ones(n)/n    
-    C = distmat(x,y)
+    C = distmat(x.T,y.T)
     u, v, _, _ = log_sinkhorn(C,eps,np.zeros(n), a,b, niter = 500)
-    Cx = distmat(x,x)
-    ux, vx, _, _ = log_sinkhorn(C,eps,np.zeros(n), a,b, niter = 500)
-    Cy = distmat(x,y)
-    uy, vy, _, _ = log_sinkhorn(C,eps,np.zeros(n), a,b, niter = 500)
+    Cx = distmat(x.T,x.T)
+    ux, vx, _, _ = log_sinkhorn(Cx,eps,np.zeros(n), a,b, niter = 500)
+    Cy = distmat(x.T,y.T)
+    uy, vy, _, _ = log_sinkhorn(Cy,eps,np.zeros(n), a,b, niter = 500)
     return np.mean(u)+np.mean(v) - (np.mean(ux)+np.mean(vx)+np.mean(uy) +np.mean(vy))/2
 
 ## Vizualisation ##
