@@ -13,3 +13,5 @@ This repo contains my labs and projects done during my master MVA (https://www.m
 |<a href="http://www.gpeyre.com/teaching/"> Computational Optimal Transport </a> | G. Peyre | Monge and Kantorovitch problems, regularization, Sinkhorn algorithm |
 |<a href="https://mvaisat.wp.imt.fr/"> Remote sensing data analysis </a> | C. Kervazo, C. de Franchis, G. Facciolo, E. Meinhardt, F. Tupin| modelling, 3d information recovery, time series analysis  |
 | Kernel methods in Machine Learning | J. Mairal, M. Arbel | Kernel SVM, Ridge/logistic regression |
+| Blind Source Separation and applications in astrophysics | J. Bobin, C. Kervazo | ICA, Sparse source separation |
+| Deep Learning for medical imaging | O. Colliot | Classification, validation, segmentation, registration |
