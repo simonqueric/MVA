@@ -1,0 +1,12 @@
+LICENSE.txt
+README
+setup.py
+ad/__init__.py
+ad.egg-info/PKG-INFO
+ad.egg-info/SOURCES.txt
+ad.egg-info/dependency_links.txt
+ad.egg-info/top_level.txt
+ad/admath/__init__.py
+ad/admath/admath.py
+ad/linalg/__init__.py
+ad/linalg/linalg.py

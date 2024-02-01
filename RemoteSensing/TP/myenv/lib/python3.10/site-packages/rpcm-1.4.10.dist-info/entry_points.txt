@@ -1,0 +1,4 @@
+
+          [console_scripts]
+          rpcm=rpcm.cli:main
+      
