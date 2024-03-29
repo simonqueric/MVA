@@ -14,4 +14,3 @@ This repo contains my labs and projects done during my master MVA (https://www.m
 |<a href="https://mvaisat.wp.imt.fr/"> Remote sensing data analysis </a> | C. Kervazo, C. de Franchis, G. Facciolo, E. Meinhardt, F. Tupin| modelling, 3d information recovery, time series analysis  |
 | Kernel methods in Machine Learning | J. Mairal, M. Arbel | Supervised and Unsupervised kernel methods |
 | Blind Source Separation and applications in astrophysics | J. Bobin, C. Kervazo | ICA, Sparse source separation |
-| Deep Learning for medical imaging | O. Colliot | Classification, validation, segmentation, registration |
